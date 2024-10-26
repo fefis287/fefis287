@@ -21,7 +21,7 @@
 
 <p>
   
-Hi!👋, I'm Manuel Fernando, a computer science student and I like creat websites.
+Hi!👋, I'm Manuel Fernando, a computer science student and I like creating websites.
 
 - 🌱 I’m currently learning <strong>Css, Javascript, PHP, MySQL and Information security</strong>
 
@@ -36,7 +36,7 @@ Hi!👋, I'm Manuel Fernando, a computer science student and I like creat websit
   - 💬 I am 19 years old and currently live in Brazil. I am fluent in English and have experience with HTML, CSS, PHP, Javascript and MySQL. I have also been a content creator on YouTube since 2023, which helped me develop important skills such as creativity, communication, marketing, analytical skills, community management and social media.
 
     
-  - ⚡ I like play video games, watch movies, and creat websites, I love creat website designs and helping with the backend :p
+  - ⚡ I like playing video games, watching movies, and creating websites, I love creating website designs and helping with the backend :p
 </details>
 
 <!-- Links -->
